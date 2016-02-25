@@ -1,0 +1,12 @@
+[
+{
+	"name": "A",
+	"label": "矩阵A",
+	"description": "请在此输入矩阵A，格式见左边说明"
+},
+{
+	"name": "B",
+	"label": "矩阵B",
+	"description": "请在此输入矩阵B，格式见左边说明"
+}
+]
